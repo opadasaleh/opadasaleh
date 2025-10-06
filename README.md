@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7275AFF&center=true&vCenter=true&width=435&lines=opada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F706FF&center=true&vCenter=true&width=500&lines=Who+Are+You+?)
 <br/>
-![react](https://github.com/opadasaleh/opadasaleh/blob/main/Jack%20Samurai%20GIF.gif?raw=true)
+![react](https://github.com/opadasaleh/opadasaleh/blob/main/GIF%20by%20Adult%20Swim.gif?raw=true)
 <!--
 **opadasaleh/opadasaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
