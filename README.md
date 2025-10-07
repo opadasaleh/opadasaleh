@@ -8,7 +8,9 @@
 
 ![React Animation](https://github.com/opadasaleh/opadasaleh/blob/main/GIF%20by%20Adult%20Swim.gif?raw=true)
 
+  ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 </div>
+
 
 ---
 
