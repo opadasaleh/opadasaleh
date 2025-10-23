@@ -1,6 +1,6 @@
 <div align="center">
   
-### 🚀 A Passionate Frontend Developer
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=opadasaleh&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -12,19 +12,19 @@
 </div>
 
 
----
-
+<!-- --- -->
+<!-- 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=opadasaleh&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
-## 🌐 Connect with Me
+<!--## 🌐 Connect with Me-->
 
 <div align="center">
   
@@ -84,6 +84,6 @@
 
 <div align="center">
   
-### ⚡ Fun fact: I love turning coffee into code! ☕️💻
+<!-- ### ⚡ Fun fact: I love turning coffee into code! ☕️💻 -->
 
 </div>
