@@ -2,7 +2,7 @@
   
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=opadasaleh&label=Profile%20views&color=0e75b6&style=flat)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=opadasaleh&label=Profile%20views&color=0e75b6&style=flat)-->
 
 <br/>
 
@@ -22,17 +22,13 @@
 
 </div> -->
 
----
+
 
 <!--## 🌐 Connect with Me-->
 
-<div align="center">
-  
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/opadasaleh)
 
-</div>
 
----
+
 
 ## 🛠️ Languages and Tools
 
@@ -42,7 +38,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -85,5 +81,11 @@
 <div align="center">
   
 <!-- ### ⚡ Fun fact: I love turning coffee into code! ☕️💻 -->
+
+</div>
+
+<div align="center">
+  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/opadasaleh)
 
 </div>
