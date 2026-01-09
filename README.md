@@ -40,17 +40,13 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=opadasaleh&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=opadasaleh&theme=tokyonight&fire=0DEB00&background=113%2C5FFF24%2C1C1C1C&border=FFFFFF&stroke=1DEB00&ring=3DEB00&currStreakNum=25EB00&sideNums=06EB00&currStreakLabel=00EB02&sideLabels=06EB00&dates=00EB0A&excludeDaysLabel=16EB00)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<div align="center">
-  
-<!-- ### ⚡ Fun fact: I love turning coffee into code! ☕️💻 -->
 
-</div>
 
 <div align="center">
   
