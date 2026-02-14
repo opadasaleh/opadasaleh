@@ -33,15 +33,11 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opadasaleh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opadasaleh&layout=compact&langs_count=7&theme=dark"/>
-
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=opadasaleh&theme=tokyonight&fire=0DEB00&background=113%2C5FFF24%2C1C1C1C&border=FFFFFF&stroke=1DEB00&ring=3DEB00&currStreakNum=25EB00&sideNums=06EB00&currStreakLabel=00EB02&sideLabels=06EB00&dates=00EB0A&excludeDaysLabel=16EB00)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=opadasaleh&theme=icegray&border_radius=12.2&short_numbers=true)](https://git.io/streak-stats)
 </div>
 
 ---
